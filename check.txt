@@ -1,2 +1,6 @@
 -- to check from remote
+<<<<<<< Updated upstream
 -- to check  again
+=======
+-- checking local 
+>>>>>>> Stashed changes
